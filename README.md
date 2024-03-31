@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS,React, HTML, CSS**
 
-- 📫 How to reach me **shashovasi@gmail.com**
+- 📫 How to reach me **shashovasi@gmail.com** **sophia.shashova@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
