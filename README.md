@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A passionate frontend developer from Armenia</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer+from+Armenia)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **some educational projects**
 
