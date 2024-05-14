@@ -12,7 +12,7 @@
 
 <h3 align="left">:page_with_curl: My CV:</h3>
 
-You can find my CV [GitHub Pages](https://pages.github.com/)
+You can find my CV [here](https://holistic-ceramic-242.notion.site/CV-Sofia-Shashova-3feda79165414dfb942fe7a1a44a1a45)
 
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
