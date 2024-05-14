@@ -2,15 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **some educational projects**
+<h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **JS,React, HTML, CSS**
+- 🔭 I’m currently learning on **some educational projects in Hexlet**
+
+- 🌱 I’m currently learning **TS, unit tests**
 
 - 📫 How to reach me **shashovasi@gmail.com** **sophia.shashova@yandex.ru**
 
 <h3 align="left">My CV</h3>
 <p align="left">
-You can find my CV [here](https://holistic-ceramic-242.notion.site/CV-Sofia-Shashova-3feda79165414dfb942fe7a1a44a1a45?pvs=4)
+You can find my CV [here]('https://holistic-ceramic-242.notion.site/CV-Sofia-Shashova-3feda79165414dfb942fe7a1a44a1a45?pvs=4')
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
