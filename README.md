@@ -8,8 +8,9 @@
 
 - 📫 How to reach me **shashovasi@gmail.com** **sophia.shashova@yandex.ru**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My CV</h3>
 <p align="left">
+You can find my CV [here](https://holistic-ceramic-242.notion.site/CV-Sofia-Shashova-3feda79165414dfb942fe7a1a44a1a45?pvs=4)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
