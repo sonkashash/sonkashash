@@ -12,7 +12,7 @@
 
 <h3 align="left">:page_with_curl: My CV:</h3>
 <p align="left">
-You can find my CV [here](https://www.google.ru/?hl=ru)
+You can find my CV [GitHub Pages](https://pages.github.com/)
 </p>
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
