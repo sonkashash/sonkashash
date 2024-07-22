@@ -4,7 +4,7 @@
 
 <h3 align="left">:woman_technologist: About me:</h3>
 
-- 🔭 I’m currently working on **some educational projects in Hexlet**
+- 🔭 I’m currently working on **some educational projects in [Hexlet](https://ru.hexlet.io/u/user-396664c732595cf2)**
 
 - 🌱 I’m currently learning **TypeScripts**
 
