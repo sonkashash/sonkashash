@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **some educational projects in Hexlet**
 
-- 🌱 I’m currently learning **TS, unit tests**
+- 🌱 I’m currently learning **TypeScripts**
 
 - 📫 How to reach me **shashovasi@gmail.com** **sophia.shashova@yandex.ru**
 
