@@ -6,7 +6,7 @@
 
 I'm a frontend developer located in Armenia with a background in science, blending technical expertise and analytical skills to build intuitive, engaging user interfaces. I work with HTML, CSS, JavaScript, React and TypeScript, also I use some tools like Git, Webpack, ESLint and Jest. Always curious and eager to tackle new challenges, I love leveraging technology to create innovative solutions.
 
-- 🔭 I’m currently studying at ** [Hexlet](https://ru.hexlet.io/u/user-396664c732595cf2)**
+- 🔭 I’m currently studying at [Hexlet](https://ru.hexlet.io/u/user-396664c732595cf2)
 
 - 🌱 I’m currently learning **TypeScript**
 
