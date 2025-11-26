@@ -6,7 +6,7 @@
 
 I'm a frontend developer located in Armenia with a background in science, blending technical expertise and analytical skills to build intuitive, engaging user interfaces. I work with HTML, CSS, JavaScript, React and TypeScript, also I use some tools like Git, Webpack, ESLint and Jest. Always curious and eager to tackle new challenges, I love leveraging technology to create innovative solutions.
 
-- 🔭 I’m currently studying at [Hexlet](https://ru.hexlet.io/u/user-396664c732595cf2)
+- 🔭 I’m currently workig at Quantori
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -14,7 +14,7 @@ I'm a frontend developer located in Armenia with a background in science, blendi
 
 <h3 align="left">:page_with_curl: My CV:</h3>
 
-You can find my CV [here](https://cv.hexlet.io/ru/resumes/5046)
+You can find my CV [here](https://drive.google.com/file/d/1pNXC48UzK3kUoeQQ7vfoVOU5ueaiLVt9/view?usp=sharing)
 
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
